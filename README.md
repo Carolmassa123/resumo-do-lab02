@@ -21,4 +21,4 @@ Benefícios da nuvem: Alta disponibilidade (1), Escalabilidade (2), Previsibilid
 
 7- Capacidade de gerenciamento da nuvem. Existem 2 tipos. Escalar automaticamente a implantação de recursos. Implantar recursos pré-configurados remove a necessidade de configuração manual, diminuindo erro humano. Gerenciamento é por meio de um portal web ou usando interface de linha de comando, como, API's e powershell.
 
-*Replicar gera menos tempo de indisponibilidade.
+* Replicar gera menos tempo de indisponibilidade.
